@@ -1,2 +1,2 @@
 # Pentago
-Pentago game with Logic Circuits
+Pentago game with Logic Circuits - simulated with proteus
